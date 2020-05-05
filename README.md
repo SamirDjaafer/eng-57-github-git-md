@@ -1,4 +1,8 @@
-# Git, Github & Bash cheat sheet 
+# Git, Github & Bash cheat sheet
+
+This is an amazing repo !!!
+
+Look at the changes
 
 ## Bash Commands I know
 

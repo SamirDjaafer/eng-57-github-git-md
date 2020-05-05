@@ -21,8 +21,8 @@ Look at the changes
 1. git init
 2. git log
 3. git checkout
-4. git add
+4. git add (You need to add the current changes before you can commit them)
 5. git status
-6. git commit
+6. git commit (This creates a save point)
 
 I have made some changes

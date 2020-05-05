@@ -16,9 +16,13 @@ Look at the changes
 8. ls -a (Shows hidden files)
 
 
-## Git Command I Know
+## Git Commands I Know
 
 1. git init
 2. git log
 3. git checkout
-4. 
+4. git add
+5. git status
+6. git commit
+
+I have made some changes

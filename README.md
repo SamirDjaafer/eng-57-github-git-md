@@ -19,3 +19,6 @@ Look at the changes
 ## Git Command I Know
 
 1. git init
+2. git log
+3. git checkout
+4. 
